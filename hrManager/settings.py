@@ -79,7 +79,7 @@ DATABASES = {
         'USER': 'raider',
         #'USER': 'user',
         'PASSWORD': 'user',
-        'HOST': 'mysql.server'
+        'HOST': 'mysql.server',
         #'HOST': 'localhost',  # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
