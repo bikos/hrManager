@@ -75,7 +75,7 @@ WSGI_APPLICATION = 'hrManager.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test',
+        'NAME': 'raider$test',
         'USER': 'raider',
         #'USER': 'user',
         'PASSWORD': 'user',
